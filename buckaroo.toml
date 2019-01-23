@@ -1,6 +1,5 @@
 targets = [ "//:linq" ]
 
-
 [[dependency]]
 package = "github.com/buckaroo-pm/boost-assign"
 version = "branch=master"

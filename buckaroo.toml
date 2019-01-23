@@ -1,0 +1,46 @@
+targets = [ "//:linq" ]
+
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-assign"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-foreach"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-fusion"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-mpl"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-optional"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-preprocessor"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-range"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-static_assert"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-test"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-unordered"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-utility"
+version = "branch=master"

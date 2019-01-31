@@ -58,7 +58,7 @@ revision = "f326ae1e1b93216ce40e098a2baed4cc152d06ef"
 
 [lock."github.com/buckaroo-pm/boost-assert"]
 versions = [ "branch=master" ]
-revision = "628df4e4cb5226f05a35ea62830953dde79927f2"
+revision = "f9d6a7b63ef2902777b6078fdebc54e7a57aac03"
 
 [lock."github.com/buckaroo-pm/boost-assign"]
 versions = [ "branch=master" ]
@@ -66,7 +66,7 @@ revision = "ad238fac8778c22dc9faf56dc77608c3c25013aa"
 
 [lock."github.com/buckaroo-pm/boost-bind"]
 versions = [ "branch=master" ]
-revision = "783ec0afe46d65f8cfdb558e16f25adc02797b3c"
+revision = "9ad7a5ff3b85224e2235657dbb9f48e8d548b43c"
 
 [lock."github.com/buckaroo-pm/boost-chrono"]
 versions = [ "branch=master" ]

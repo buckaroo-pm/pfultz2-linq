@@ -50,7 +50,7 @@ revision = "81660693b6473d0ec6d000a01fd74b7dadd22106"
 
 [lock."github.com/buckaroo-pm/boost-align"]
 versions = [ "branch=master" ]
-revision = "6587b84e4fb0711bd7d0930b415ca7937e72021b"
+revision = "db53cd629da1af648babcd384bda7a4abcbf7b99"
 
 [lock."github.com/buckaroo-pm/boost-array"]
 versions = [ "branch=master" ]
@@ -90,7 +90,7 @@ revision = "ddd9a887f1f0253ded4455d455b3c54228067b74"
 
 [lock."github.com/buckaroo-pm/boost-core"]
 versions = [ "branch=master" ]
-revision = "4f59c5f06f11cd029a85d932ef51b9d511761f49"
+revision = "84411b155dae6f08ea749bdeb1e71aecd0718d52"
 
 [lock."github.com/buckaroo-pm/boost-detail"]
 versions = [ "branch=master" ]
@@ -150,7 +150,7 @@ revision = "9c3529ad17d35171ffaa689ebfee9f21ce616129"
 
 [lock."github.com/buckaroo-pm/boost-predef"]
 versions = [ "branch=master" ]
-revision = "c497db2c821492a2d6b0a16dc7f4edcec8c3aec6"
+revision = "c52d78d2ae7cc323da79c23375b7efe8c2c8078d"
 
 [lock."github.com/buckaroo-pm/boost-preprocessor"]
 versions = [ "branch=master" ]

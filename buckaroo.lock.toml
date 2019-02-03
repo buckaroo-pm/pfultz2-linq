@@ -46,7 +46,7 @@ target = "//:utility"
 
 [lock."github.com/buckaroo-pm/boost-algorithm"]
 versions = [ "branch=master" ]
-revision = "81660693b6473d0ec6d000a01fd74b7dadd22106"
+revision = "eab7c8d0b43f176fa15e6d541a953e56643c2a62"
 
 [lock."github.com/buckaroo-pm/boost-align"]
 versions = [ "branch=master" ]
@@ -54,7 +54,7 @@ revision = "6da7695406e00e3f59c47f1b0a369710db6e51f8"
 
 [lock."github.com/buckaroo-pm/boost-array"]
 versions = [ "branch=master" ]
-revision = "f326ae1e1b93216ce40e098a2baed4cc152d06ef"
+revision = "33b398e1da5f9267d4c1e54df8651beaee611102"
 
 [lock."github.com/buckaroo-pm/boost-assert"]
 versions = [ "branch=master" ]
@@ -230,7 +230,7 @@ revision = "f04cf922658a7e03776631a96c3ad346ad179d5f"
 
 [lock."github.com/buckaroo-pm/boost-winapi"]
 versions = [ "branch=master" ]
-revision = "92c47b2e1db8a7c023d394e979f81438b410fd18"
+revision = "44002f228a0b91c556cd41f8ceb5b4bff7745166"
 
 [lock."github.com/buckaroo-pm/icu4c"]
 versions = [ "branch=master" ]

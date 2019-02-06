@@ -74,7 +74,7 @@ revision = "17081edcdaf181adfb439745635b9752b3f33126"
 
 [lock."github.com/buckaroo-pm/boost-circular_buffer"]
 versions = [ "branch=master" ]
-revision = "335e9fdf5f7438c9f419eedc63eea31309ab4ebf"
+revision = "e7efd85c8a278a3df0c5aa4d8e3ed927d390a44f"
 
 [lock."github.com/buckaroo-pm/boost-concept_check"]
 versions = [ "branch=master" ]

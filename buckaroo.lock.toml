@@ -102,7 +102,7 @@ revision = "c43bde6de716aeaa1958f523576599c384791da2"
 
 [lock."github.com/buckaroo-pm/boost-foreach"]
 versions = [ "branch=master" ]
-revision = "3640a2fff774a36e833f4fe86d7fd3786baf7c1a"
+revision = "2e9e1870f384cc9dc876d9ceb8a7976b94d71a9f"
 
 [lock."github.com/buckaroo-pm/boost-function"]
 versions = [ "branch=master" ]
@@ -118,7 +118,7 @@ revision = "c0c241d85df00f7f081180aec6711812136be89e"
 
 [lock."github.com/buckaroo-pm/boost-fusion"]
 versions = [ "branch=master" ]
-revision = "706a76db5d04f34aeca5a2894ce6060e9044348e"
+revision = "5582bb48c213ed3f9d41c2e3f700c78929132fa7"
 
 [lock."github.com/buckaroo-pm/boost-integer"]
 versions = [ "branch=master" ]

@@ -158,7 +158,7 @@ revision = "4d01d0f9c0ae3ae3cd20e3cbfddbc9909ce8e064"
 
 [lock."github.com/buckaroo-pm/boost-ptr_container"]
 versions = [ "branch=master" ]
-revision = "66db4689881b75f9acf3a83c42d6e144480fe60d"
+revision = "cb6a533e3402af736b4016570292418e6ef9ba43"
 
 [lock."github.com/buckaroo-pm/boost-range"]
 versions = [ "branch=master" ]
